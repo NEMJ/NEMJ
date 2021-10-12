@@ -5,7 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NEMJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEMJ&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
 
 <div style="display: incline_block"><br>
   <img align="center" alt="Flutter" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/>
@@ -25,7 +24,9 @@
   <a href="https://www.linkedin.com/in/nelson-junior-20a305182/"><img src="http://shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100021855757349"><img src="https://shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </div>
-
+  
+![Snake animation](https://github.com/NEMJ/NEMJ/blob/output/github-contribution-grid-snake.svg)
+  
 <!--
 **NEMJ/NEMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
