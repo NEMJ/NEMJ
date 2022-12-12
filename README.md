@@ -2,6 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/NEMJ">
+  <img align="right" alt="NEMJ-AVT" height="180px" src="https://cdn.discordapp.com/attachments/896968118243590195/897296669517946920/Avatar.png"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NEMJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEMJ&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -11,7 +12,6 @@
     <img align="center" alt="Flutter" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/>
     Flutter Developer
   <h3/>
-  <img align="right" alt="NEMJ-AVT" height="150px" src="https://cdn.discordapp.com/attachments/896968118243590195/897296669517946920/Avatar.png"/>
 <div/>
 
 ##
