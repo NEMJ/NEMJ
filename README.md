@@ -7,13 +7,10 @@
 </div>
 
 <div style="display: incline_block"><br>
-  <img align="center" alt="Flutter" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/>
-  <img align="center" alt="Reac" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
-  <img align="center" alt="Node JS" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="JavaScript" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="HTML5" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Python" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+  <h3> 
+    <img align="center" alt="Flutter" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/>
+    Flutter Developer
+  <h3/>
   <img align="right" alt="NEMJ-AVT" height="150px" src="https://cdn.discordapp.com/attachments/896968118243590195/897296669517946920/Avatar.png"/>
 <div/>
 
